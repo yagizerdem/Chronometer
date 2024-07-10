@@ -1,0 +1,16 @@
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\bin\Debug\net8.0-windows\Chronometer.exe
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\bin\Debug\net8.0-windows\Chronometer.deps.json
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\bin\Debug\net8.0-windows\Chronometer.runtimeconfig.json
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\bin\Debug\net8.0-windows\Chronometer.dll
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\bin\Debug\net8.0-windows\Chronometer.pdb
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.Form1.resources
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.csproj.GenerateResource.cache
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.AssemblyInfoInputs.cache
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.AssemblyInfo.cs
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.dll
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\refint\Chronometer.dll
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.pdb
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\Chronometer.genruntimeconfig.cache
+C:\Users\yagiz\Desktop\Chronometer\Chronometer\obj\Debug\net8.0-windows\ref\Chronometer.dll
